@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 16.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - graph1</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#EAF2F3;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#EAF2F3;stroke-width:5.76"/>
+	<rect x="1094.94" y="100.86" width="2260.17" height="2260.12" style="fill:#000000;fill-opacity:0.00"/>
+	<rect x="1097.24" y="103.16" width="2255.56" height="2255.51" style="fill:none;stroke:#000000;stroke-opacity:0.00;stroke-width:4.61"/>
+	<line x1="1101.87" y1="2360.98" x2="1101.87" y2="100.86" style="stroke:#EAF2F3;stroke-width:6.91"/>
+	<line x1="1551.21" y1="2360.98" x2="1551.21" y2="100.86" style="stroke:#EAF2F3;stroke-width:6.91"/>
+	<line x1="2000.42" y1="2360.98" x2="2000.42" y2="100.86" style="stroke:#EAF2F3;stroke-width:6.91"/>
+	<line x1="2449.76" y1="2360.98" x2="2449.76" y2="100.86" style="stroke:#EAF2F3;stroke-width:6.91"/>
+	<line x1="2898.97" y1="2360.98" x2="2898.97" y2="100.86" style="stroke:#EAF2F3;stroke-width:6.91"/>
+	<line x1="3348.18" y1="2360.98" x2="3348.18" y2="100.86" style="stroke:#EAF2F3;stroke-width:6.91"/>
+	<rect x="1101.87" y="2020.53" width="1276.73" height="277.95" style="fill:#ADD8E6"/>
+	<rect x="1104.17" y="2022.83" width="1272.12" height="273.34" style="fill:none;stroke:#ADD8E6;stroke-width:4.61"/>
+	<rect x="2378.60" y="2020.53" width="969.58" height="277.95" style="fill:#C10534"/>
+	<rect x="2380.90" y="2022.83" width="964.97" height="273.34" style="fill:none;stroke:#C10534;stroke-width:4.61"/>
+	<rect x="1101.87" y="1556.20" width="1132.07" height="277.95" style="fill:#ADD8E6"/>
+	<rect x="1104.17" y="1558.51" width="1127.46" height="273.34" style="fill:none;stroke:#ADD8E6;stroke-width:4.61"/>
+	<rect x="2233.93" y="1556.20" width="1114.24" height="277.95" style="fill:#C10534"/>
+	<rect x="2236.24" y="1558.51" width="1109.64" height="273.34" style="fill:none;stroke:#C10534;stroke-width:4.61"/>
+	<rect x="1101.87" y="1091.88" width="1115.24" height="278.07" style="fill:#ADD8E6"/>
+	<rect x="1104.17" y="1094.18" width="1110.63" height="273.47" style="fill:none;stroke:#ADD8E6;stroke-width:4.61"/>
+	<rect x="2217.11" y="1091.88" width="1131.07" height="278.07" style="fill:#C10534"/>
+	<rect x="2219.41" y="1094.18" width="1126.47" height="273.47" style="fill:none;stroke:#C10534;stroke-width:4.61"/>
+	<rect x="1101.87" y="627.56" width="1009.31" height="278.07" style="fill:#ADD8E6"/>
+	<rect x="1104.17" y="629.86" width="1004.70" height="273.47" style="fill:none;stroke:#ADD8E6;stroke-width:4.61"/>
+	<rect x="2111.18" y="627.56" width="1237.00" height="278.07" style="fill:#C10534"/>
+	<rect x="2113.48" y="629.86" width="1232.40" height="273.47" style="fill:none;stroke:#C10534;stroke-width:4.61"/>
+	<rect x="1101.87" y="163.36" width="1009.43" height="277.95" style="fill:#ADD8E6"/>
+	<rect x="1104.17" y="165.66" width="1004.82" height="273.34" style="fill:none;stroke:#ADD8E6;stroke-width:4.61"/>
+	<rect x="2111.30" y="163.36" width="1236.88" height="277.95" style="fill:#C10534"/>
+	<rect x="2113.60" y="165.66" width="1232.27" height="273.34" style="fill:none;stroke:#C10534;stroke-width:4.61"/>
+	<line x1="1094.94" y1="2360.98" x2="3355.11" y2="2360.98" style="stroke:#000000;stroke-width:3.00"/>
+	<line x1="1101.87" y1="2360.98" x2="1101.87" y2="2393.03" style="stroke:#000000;stroke-width:4.61"/>
+	<text x="1101.87" y="2453.72" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="middle">0</text>
+	<line x1="1551.21" y1="2360.98" x2="1551.21" y2="2393.03" style="stroke:#000000;stroke-width:4.61"/>
+	<text x="1551.21" y="2453.72" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="middle">20</text>
+	<line x1="2000.42" y1="2360.98" x2="2000.42" y2="2393.03" style="stroke:#000000;stroke-width:4.61"/>
+	<text x="2000.42" y="2453.72" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="middle">40</text>
+	<line x1="2449.76" y1="2360.98" x2="2449.76" y2="2393.03" style="stroke:#000000;stroke-width:4.61"/>
+	<text x="2449.76" y="2453.72" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="middle">60</text>
+	<line x1="2898.97" y1="2360.98" x2="2898.97" y2="2393.03" style="stroke:#000000;stroke-width:4.61"/>
+	<text x="2898.97" y="2453.72" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="middle">80</text>
+	<line x1="3348.18" y1="2360.98" x2="3348.18" y2="2393.03" style="stroke:#000000;stroke-width:4.61"/>
+	<text x="3348.18" y="2453.72" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="middle">100</text>
+	<text x="2225.03" y="2525.74" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="middle">Percent</text>
+	<line x1="1094.94" y1="2360.98" x2="1094.94" y2="100.86" style="stroke:#000000;stroke-width:3.00"/>
+	<text x="1063.01" y="2181.93" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="end">No</text>
+	<text x="1063.01" y="1717.60" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="end">Conditional No</text>
+	<text x="1063.01" y="1253.28" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="end">No Response</text>
+	<text x="1063.01" y="789.08" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="end">Conditional Yes</text>
+	<text x="1063.01" y="324.75" style="font-family:'Helvetica';font-size:63.98px;fill:#000000" text-anchor="end">Yes</text>
+	<rect x="1439.71" y="2588.56" width="1570.76" height="162.98" style="fill:#FFFFFF;fill-opacity:0.00"/>
+	<rect x="1442.01" y="2590.86" width="1566.15" height="158.38" style="fill:none;stroke:#FFFFFF;stroke-opacity:0.00;stroke-width:4.61"/>
+	<rect x="1481.16" y="2630.14" width="299.48" height="79.94" style="fill:#ADD8E6"/>
+	<rect x="1483.47" y="2632.44" width="294.87" height="75.34" style="fill:none;stroke:#ADD8E6;stroke-width:4.61"/>
+	<rect x="2292.22" y="2630.14" width="299.60" height="79.94" style="fill:#C10534"/>
+	<rect x="2294.53" y="2632.44" width="294.99" height="75.34" style="fill:none;stroke:#C10534;stroke-width:4.61"/>
+	<text x="1840.66" y="2692.54" style="font-family:'Helvetica';font-size:63.98px;fill:#000000">Guest black</text>
+	<text x="2651.72" y="2692.54" style="font-family:'Helvetica';font-size:63.98px;fill:#000000">Guest white</text>
+</svg>

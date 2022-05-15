@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 16.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#EAF2F3;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF;fill-opacity:0.00"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#EAF2F3;stroke-opacity:0.00;stroke-width:5.76"/>
+	<rect x="17.32" y="17.33" width="3925.23" height="2845.35" style="fill:#FFFFFF"/>
+	<rect x="20.20" y="20.21" width="3919.47" height="2839.59" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="267.18" y="17.33" width="3675.38" height="2339.94" style="fill:#FFFFFF"/>
+	<rect x="270.06" y="20.21" width="3669.62" height="2334.18" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="267.18" y1="2293.90" x2="3942.55" y2="2293.90" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="267.18" y1="1851.23" x2="3942.55" y2="1851.23" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="267.18" y1="1408.57" x2="3942.55" y2="1408.57" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="267.18" y1="965.90" x2="3942.55" y2="965.90" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="267.18" y1="523.23" x2="3942.55" y2="523.23" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="267.18" y1="80.69" x2="3942.55" y2="80.69" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="330.54" y1="1309.93" x2="330.54" y2="923.45" style="stroke:#FF4500;stroke-width:8.64"/>
+	<line x1="308.51" y1="923.45" x2="352.56" y2="923.45" stroke-linecap="round" style="stroke:#FF4500;stroke-width:8.64"/>
+	<line x1="308.51" y1="1309.93" x2="352.56" y2="1309.93" stroke-linecap="round" style="stroke:#FF4500;stroke-width:8.64"/>
+	<line x1="3879.19" y1="902.78" x2="3879.19" y2="237.36" style="stroke:#FF4500;stroke-width:8.64"/>
+	<line x1="3857.16" y1="237.36" x2="3901.22" y2="237.36" stroke-linecap="round" style="stroke:#FF4500;stroke-width:8.64"/>
+	<line x1="3857.16" y1="902.78" x2="3901.22" y2="902.78" stroke-linecap="round" style="stroke:#FF4500;stroke-width:8.64"/>
+	<line x1="330.54" y1="2201.71" x2="330.54" y2="1450.89" style="stroke:#82C0E9;stroke-width:8.64"/>
+	<line x1="308.51" y1="1450.89" x2="352.56" y2="1450.89" stroke-linecap="round" style="stroke:#82C0E9;stroke-width:8.64"/>
+	<line x1="308.51" y1="2201.71" x2="352.56" y2="2201.71" stroke-linecap="round" style="stroke:#82C0E9;stroke-width:8.64"/>
+	<line x1="3879.19" y1="1850.62" x2="3879.19" y2="593.40" style="stroke:#82C0E9;stroke-width:8.64"/>
+	<line x1="3857.16" y1="593.40" x2="3901.22" y2="593.40" stroke-linecap="round" style="stroke:#82C0E9;stroke-width:8.64"/>
+	<line x1="3857.16" y1="1850.62" x2="3901.22" y2="1850.62" stroke-linecap="round" style="stroke:#82C0E9;stroke-width:8.64"/>
+	<path d=" M330.54 1116.75 L3879.19 570.13" stroke-linejoin="round" style="fill:none;stroke:#FF4500;stroke-width:8.64"/>
+	<circle cx="330.54" cy="1116.75" r="26.35" style="fill:#FF4500"/>
+	<circle cx="330.54" cy="1116.75" r="22.03" style="fill:none;stroke:#FF4500;stroke-width:8.64"/>
+	<circle cx="3879.19" cy="570.13" r="26.35" style="fill:#FF4500"/>
+	<circle cx="3879.19" cy="570.13" r="22.03" style="fill:none;stroke:#FF4500;stroke-width:8.64"/>
+	<path d=" M330.54 1826.36 L3879.19 1222.07" stroke-linejoin="round" style="fill:none;stroke:#82C0E9;stroke-width:8.64"/>
+	<circle cx="330.54" cy="1826.36" r="26.35" style="fill:#82C0E9"/>
+	<circle cx="330.54" cy="1826.36" r="22.03" style="fill:none;stroke:#82C0E9;stroke-width:8.64"/>
+	<circle cx="3879.19" cy="1222.07" r="26.35" style="fill:#82C0E9"/>
+	<circle cx="3879.19" cy="1222.07" r="22.03" style="fill:none;stroke:#82C0E9;stroke-width:8.64"/>
+	<line x1="267.18" y1="2357.26" x2="267.18" y2="17.33" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="267.18" y1="2293.90" x2="227.21" y2="2293.90" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="183.24" y="2293.90" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 183.24,2293.90)" text-anchor="middle">.35</text>
+	<line x1="267.18" y1="1851.23" x2="227.21" y2="1851.23" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="183.24" y="1851.23" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 183.24,1851.23)" text-anchor="middle">.4</text>
+	<line x1="267.18" y1="1408.57" x2="227.21" y2="1408.57" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="183.24" y="1408.57" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 183.24,1408.57)" text-anchor="middle">.45</text>
+	<line x1="267.18" y1="965.90" x2="227.21" y2="965.90" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="183.24" y="965.90" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 183.24,965.90)" text-anchor="middle">.5</text>
+	<line x1="267.18" y1="523.23" x2="227.21" y2="523.23" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="183.24" y="523.23" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 183.24,523.23)" text-anchor="middle">.55</text>
+	<line x1="267.18" y1="80.69" x2="227.21" y2="80.69" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="183.24" y="80.69" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 183.24,80.69)" text-anchor="middle">.6</text>
+	<text x="93.15" y="1187.29" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 93.15,1187.29)" text-anchor="middle">Linear Prediction</text>
+	<line x1="267.18" y1="2357.26" x2="3942.55" y2="2357.26" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="330.54" y1="2357.26" x2="330.54" y2="2397.24" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="330.54" y="2473.18" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" text-anchor="middle">0</text>
+	<line x1="3879.19" y1="2357.26" x2="3879.19" y2="2397.24" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="3879.19" y="2473.18" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" text-anchor="middle">1</text>
+	<text x="2104.86" y="2563.15" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" text-anchor="middle">Host AA</text>
+	<rect x="1194.56" y="2641.77" width="1820.61" height="186.37" style="fill:#FFFFFF"/>
+	<rect x="1197.44" y="2644.65" width="1814.85" height="180.61" style="fill:none;stroke:#EAF2F3;stroke-opacity:0.00;stroke-width:5.76"/>
+	<line x1="1237.75" y1="2734.96" x2="1612.21" y2="2734.96" style="stroke:#FF4500;stroke-width:8.64"/>
+	<circle cx="1424.98" cy="2734.96" r="26.35" style="fill:#FF4500"/>
+	<circle cx="1424.98" cy="2734.96" r="22.03" style="fill:none;stroke:#FF4500;stroke-width:8.64"/>
+	<line x1="2208.69" y1="2734.96" x2="2583.16" y2="2734.96" style="stroke:#82C0E9;stroke-width:8.64"/>
+	<circle cx="2395.92" cy="2734.96" r="26.35" style="fill:#82C0E9"/>
+	<circle cx="2395.92" cy="2734.96" r="22.03" style="fill:none;stroke:#82C0E9;stroke-width:8.64"/>
+	<text x="1672.23" y="2762.97" style="font-family:'Helvetica';font-size:79.94px;fill:#000000">Guest white</text>
+	<text x="2643.18" y="2762.97" style="font-family:'Helvetica';font-size:79.94px;fill:#000000">Guest AA</text>
+</svg>
