@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 16.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#EAF2F3;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#EAF2F3"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#EAF2F3;stroke-width:5.76"/>
+	<rect x="390.80" y="261.37" width="3468.22" height="1972.27" style="fill:#FFFFFF"/>
+	<rect x="393.68" y="264.25" width="3462.46" height="1966.51" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="390.80" y1="2118.05" x2="3859.02" y2="2118.05" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="1669.69" x2="3859.02" y2="1669.69" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="1221.33" x2="3859.02" y2="1221.33" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="773.09" x2="3859.02" y2="773.09" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="390.80" y1="324.73" x2="3859.02" y2="324.73" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<defs>
+		<path id="path_lnsyzxnQ" d="M454.16 1296.82 L454.16 1296.82 L1122.41 1225.53 L1790.79 1154.62 L2459.04 1084.46 L3127.41 1014.91 L3795.66 946.22 L3795.66 466.43 L3127.41 503.80 L2459.04 540.43 L1790.79 576.32 L1122.41 611.47 L454.16 646.24 L454.16 1296.82 Z" stroke-linejoin="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath_eioMWWHK">
+			<use xlink:href="#path_lnsyzxnQ"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path_lnsyzxnQ" style="stroke:none;fill:#486C8C"/>
+	<use xlink:href="#path_lnsyzxnQ" style="fill:none;stroke:#1A476F;stroke-width:17.28" clip-path="url(#clipPath_eioMWWHK)"/>
+	<defs>
+		<path id="path_ozBmyHNr" d="M454.16 2170.27 L454.16 2170.27 L1122.41 2096.76 L1790.79 2023.25 L2459.04 1949.99 L3127.41 1876.85 L3795.66 1803.96 L3795.66 1165.64 L3127.41 1198.93 L2459.04 1231.97 L1790.79 1264.76 L1122.41 1297.31 L454.16 1329.86 L454.16 2170.27 Z" stroke-linejoin="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath_BkhMCfdt">
+			<use xlink:href="#path_ozBmyHNr"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path_ozBmyHNr" style="stroke:none;fill:#A65D62"/>
+	<use xlink:href="#path_ozBmyHNr" style="fill:none;stroke:#90353B;stroke-width:17.28" clip-path="url(#clipPath_BkhMCfdt)"/>
+	<path d=" M454.04 971.59 L1122.41 918.62 L1790.66 865.53 L2459.04 812.44 L3127.29 759.48 L3795.66 706.39" stroke-linejoin="round" style="fill:none;stroke:#1A476F;stroke-width:8.64"/>
+	<path d=" M454.04 1750.13 L1122.41 1697.16 L1790.66 1644.07 L2459.04 1590.98 L3127.29 1538.01 L3795.66 1484.92" stroke-linejoin="round" style="fill:none;stroke:#90353B;stroke-width:8.64"/>
+	<line x1="390.80" y1="2233.63" x2="390.80" y2="261.37" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="390.80" y1="2118.05" x2="350.83" y2="2118.05" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="2118.05" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,2118.05)" text-anchor="middle">.35</text>
+	<line x1="390.80" y1="1669.69" x2="350.83" y2="1669.69" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1669.69" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1669.69)" text-anchor="middle">.4</text>
+	<line x1="390.80" y1="1221.33" x2="350.83" y2="1221.33" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="1221.33" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,1221.33)" text-anchor="middle">.45</text>
+	<line x1="390.80" y1="773.09" x2="350.83" y2="773.09" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="773.09" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,773.09)" text-anchor="middle">.5</text>
+	<line x1="390.80" y1="324.73" x2="350.83" y2="324.73" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="300.72" y="324.73" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 300.72,324.73)" text-anchor="middle">.55</text>
+	<text x="190.71" y="1247.56" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 190.71,1247.56)" text-anchor="middle">Linear Prediction</text>
+	<line x1="390.80" y1="2233.63" x2="3859.02" y2="2233.63" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="454.16" y1="2233.63" x2="454.16" y2="2273.73" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="454.16" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">1</text>
+	<line x1="1122.41" y1="2233.63" x2="1122.41" y2="2273.73" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="1122.41" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">11</text>
+	<line x1="1790.79" y1="2233.63" x2="1790.79" y2="2273.73" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="1790.79" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">21</text>
+	<line x1="2459.04" y1="2233.63" x2="2459.04" y2="2273.73" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="2459.04" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">31</text>
+	<line x1="3127.41" y1="2233.63" x2="3127.41" y2="2273.73" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="3127.41" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">41</text>
+	<line x1="3795.66" y1="2233.63" x2="3795.66" y2="2273.73" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="3795.66" y="2363.59" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">51</text>
+	<text x="2124.91" y="2473.60" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">number_of_reviews</text>
+	<rect x="973.66" y="2558.24" width="2302.62" height="186.37" style="fill:#FFFFFF"/>
+	<rect x="976.54" y="2561.12" width="2296.86" height="180.61" style="fill:none;stroke:#000000;stroke-width:5.76"/>
+	<line x1="1016.85" y1="2651.43" x2="1391.20" y2="2651.43" style="stroke:#1A476F;stroke-width:8.64"/>
+	<line x1="2194.95" y1="2651.43" x2="2569.30" y2="2651.43" style="stroke:#90353B;stroke-width:8.64"/>
+	<text x="1451.22" y="2686.46" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">guest_black=0</text>
+	<text x="2629.32" y="2686.46" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">guest_black=1</text>
+	<text x="1980.00" y="206.19" style="font-family:'Helvetica';font-size:125.98px;fill:#1E2D53" text-anchor="middle">Predictive Margins of guest_black with 95% CIs</text>
+</svg>
